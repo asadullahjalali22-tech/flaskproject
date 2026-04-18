@@ -8,7 +8,7 @@ def home():
 
 @app.route("/about")
 def about():
-    return "this is a test to check if the CI and CD work "
+    return "this is a test to check if the CI and CD work this time"
 
 
 
